@@ -1,0 +1,78 @@
+/*CSS*/
+
+body {
+		background-image: url('images/3d-black-cubes-backgrounds-wallpapers1.jpg') ;
+	background-position: center;
+}
+
+section {
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+	background-color: white;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.my img {
+	margin-left: 400px;
+	border-radius: 10px;
+	margin-top: 20px;
+	height: 200px;
+	width: 200px;
+}
+
+h1 {
+	margin-left: 350px;
+	font-family: forte;
+	font-size: 50px;
+	font-variant: small-caps;
+}
+
+
+nav li {
+	float: left;
+	list-style-type: none;
+	text-decoration: none;
+	background-color: #100000 ;
+	text-align: center;
+	border-right: 1px solid white;
+}
+nav a {
+	text-decoration: none;
+	color: white;
+	display: block;
+	width: 180px;
+	line-height: 50px;
+	font-size: 25px;
+	font-family: Monotype Corsiva;
+}
+nav li:hover {
+	background-color: maroon;
+}
+
+footer {
+	background-color: #bee08e;
+	padding: 20px;
+	margin-bottom: 20px;
+	width: 900px;
+	margin-left: 30px;
+	height: 50px;
+	clear: both;
+}
+
+footer img {
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 60px;
+}
+
+footer span {
+    float: left;
+    margin-top: 16px;
+}
+
+footer div {
+	margin-left: 750px;
+	margin-bottom: 10px;
+}

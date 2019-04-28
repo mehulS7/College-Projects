@@ -1,0 +1,60 @@
+/* CSS */
+
+
+section {
+	height: 1550px;
+}
+
+article h2{
+	font-size: 30px;
+	font-family: forte;
+	float: left;
+	margin-left: 8px;
+	margin-top: 23px;
+}
+
+article img{ clear: both;
+      float: left;
+      margin: 20px 0 0 30px;
+
+}
+
+article {border-bottom:3px dotted grey;
+width: 900px;
+height: 180px;
+margin-left: auto;
+margin-right: auto;}
+
+.aim {
+	margin-top: 120px;
+}
+
+.aim img{
+      
+       margin: 10px 0 0 30px;
+       float: left;
+       clear: both;
+}
+
+
+.aim p{
+	clear: both;
+	font-size: 20px;
+	margin-left: 30px;
+	font-family: monotype Corsiva;
+	font-weight: bold;
+}
+
+article ul{clear: both;}
+
+article li{
+	float: left;
+	margin: 10px 70px 0 30px;
+	font-weight: bold;
+	font-family: monotype Corsiva;
+	font-size: 20px;
+}
+
+.personal{border:none;height: 260px;}
+
+.personal ul li{float: none;}

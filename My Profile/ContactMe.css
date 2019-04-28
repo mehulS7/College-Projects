@@ -1,0 +1,51 @@
+/* CSS */
+
+section{
+	height: 1820px;
+}
+
+.contact {
+	margin:20px 0 0 170px;
+
+}
+
+h2{
+margin: 20px 0 0 30px; 
+font-size:30px; 
+font-family: forte;
+}
+
+article{
+	margin-top: -30px;
+}
+
+article p, article li {
+	margin: 20px 0 0 30px;
+	font-size: 20px;
+	font-family: monotype corsiva;
+	font-weight: bold;
+}
+
+article iframe{
+	margin: 20px 0 20px 30px;
+}
+
+article li{
+	width: 300px;
+}
+
+ article p{width: 150px;}
+
+article a{
+
+	text-decoration: none;
+}
+
+article a:hover {
+	text-decoration: underline;
+}
+
+article li:hover,article p:hover{
+	text-decoration: underline;
+	color: purple;
+}

@@ -1,0 +1,76 @@
+/*css*/
+
+
+section {
+	height: 1360px;
+}
+
+
+.quali {
+	margin: 50px 0 0 30px;
+	float: left;
+}
+
+fieldset {
+	margin-top: 200px;
+	margin-right: 70px;
+    height: 270px;
+    padding: 10px;
+    border:3px solid grey;
+    border-radius: 5px;
+}
+
+fieldset li {
+	padding: 10px;
+	font-family: Monotype Corsiva;
+	font-size: 20px;
+}
+
+fieldset legend {
+	font-family: forte;
+	font-size: 25px;
+}
+
+h2 {
+	margin-left: 30px;
+	margin-top: 70px;
+	clear: both;
+	font-family: forte;
+	font-size: 30px;
+}
+
+.skills li{
+list-style-type: none;
+float: left;
+margin: 7px 80px 20px 30px;
+font-weight: bold;
+font-family: Monotype Corsiva;
+font-size: 25px;
+border-right: 1px dotted grey;
+}
+
+.im2 {
+	margin: 10px 15px 0 -50px;
+}
+
+.im1{
+	margin: 15px 20px 0 25px ;
+}
+
+.skills li img {
+	
+}
+
+.skills li ul {
+	margin-top: 40px;
+}
+
+.skills li ul li {
+    margin-top: -20px;
+	margin-left: 0px;
+	font-size: 18px;
+	font-family: times new roman;
+	font-style: italic;
+	border:none;
+	list-style-type: disc;
+}
